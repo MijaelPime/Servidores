@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "rast": "nodemon server.js"
+    "start": "nodemon server3.js"
   },
   "author": "Mijael Pimentel Allende",
   "license": "ISC",
